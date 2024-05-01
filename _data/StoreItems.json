@@ -1041,13 +1041,13 @@
 	{
 		"abr": "archocolumn",
 		"price": 25000,
-		"category": "Diversos",
+		"category": "",
 		"defname": "ArchotechDroneColumn"
 	},
 	{
 		"abr": "archocube",
 		"price": 4167,
-		"category": "Itens",
+		"category": "Utilitário",
 		"defname": "ComponentArchoDrone"
 	},
 	{
@@ -15587,7 +15587,571 @@
 		"price": 120,
 		"category": "Energia",
 		"defname": "Building_RTMakeshiftFuse"
-	}
+	},
+	{
+		"abr": "ammobox",
+		"price": 600,
+		"category": "Mobília",
+		"defname": "JDSAmmo_BoxA"
+	},
+	{
+		"abr": "ammobox",
+		"price": 1983,
+		"category": "Mobília",
+		"defname": "JDSAmmo_BoxB"
+	},
+	{
+		"abr": "ammobox",
+		"price": 3142,
+		"category": "Mobília",
+		"defname": "JDSAmmo_BoxC"
+	},
+	{
+		"abr": "ammocrate",
+		"price": 169,
+		"category": "Mobília",
+		"defname": "JDSAmmo_Crate"
+	},
+	{
+		"abr": "ammocratepiles",
+		"price": 1533,
+		"category": "Mobília",
+		"defname": "JDSAmmo_Crate_Piles"
+	},
+	{
+		"abr": "bankvault",
+		"price": 21983,
+		"category": "Mobília",
+		"defname": "JDSBank_Vault"
+	},
+	{
+		"abr": "barrel",
+		"price": 204,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Barrel"
+	},
+	{
+		"abr": "barrelpile",
+		"price": 675,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Barrel_Pile"
+	},
+	{
+		"abr": "basket",
+		"price": 104,
+		"category": "Mobília",
+		"defname": "JDS_Basket"
+	},
+	{
+		"abr": "beercrate",
+		"price": 161,
+		"category": "Mobília",
+		"defname": "JDSBeer_Crate"
+	},
+	{
+		"abr": "bulkwater",
+		"price": 264,
+		"category": "Mobília",
+		"defname": "JDS_Bulk_Water"
+	},
+	{
+		"abr": "bundleswrap",
+		"price": 116,
+		"category": "Mobília",
+		"defname": "JDS_Bundles_Wrap"
+	},
+	{
+		"abr": "bundleswrapbig",
+		"price": 725,
+		"category": "Mobília",
+		"defname": "JDS_Bundles_Wrap_Big"
+	},
+	{
+		"abr": "bundleswrappile",
+		"price": 154,
+		"category": "Mobília",
+		"defname": "JDS_Bundles_Wrap_Pile"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 89,
+		"category": "Mobília",
+		"defname": "JDS_ChemfuelPump"
+	},
+	{
+		"abr": "chemfuelstorage",
+		"price": 425,
+		"category": "Mobília",
+		"defname": "JDS_Chemfuel_Storage"
+	},
+	{
+		"abr": "chemfuelstoragelarge",
+		"price": 1475,
+		"category": "Mobília",
+		"defname": "JDS_Large_Chemfuel_Storage"
+	},
+	{
+		"abr": "cratea",
+		"price": 170,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate"
+	},
+	{
+		"abr": "cratea2",
+		"price": 400,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_Two"
+	},
+	{
+		"abr": "cratea3",
+		"price": 667,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_Three"
+	},
+	{
+		"abr": "cratea4",
+		"price": 1167,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_four"
+	},
+	{
+		"abr": "crateb",
+		"price": 237,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_B"
+	},
+	{
+		"abr": "cratec",
+		"price": 237,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_C"
+	},
+	{
+		"abr": "cratelarge",
+		"price": 1675,
+		"category": "Mobília",
+		"defname": "JDS_Wooden_Crate_Large"
+	},
+	{
+		"abr": "deadlifecolumn",
+		"price": 642,
+		"category": "Segurança",
+		"defname": "DeadColumnMod"
+	},
+	{
+		"abr": "fleshslab(broad)",
+		"price": 508,
+		"category": "Mobília",
+		"defname": "AM_FleshSlab_Broad"
+	},
+	{
+		"abr": "fleshslab(medium)",
+		"price": 342,
+		"category": "Mobília",
+		"defname": "AM_FleshSlab_Medium"
+	},
+	{
+		"abr": "industrialdumpster",
+		"price": 3367,
+		"category": "Mobília",
+		"defname": "JDSIndustrial_Dumpster"
+	},
+	{
+		"abr": "industrialdumpster(chunk)",
+		"price": 3367,
+		"category": "Mobília",
+		"defname": "JDS_Industrial_Dumpster_Chunk"
+	},
+	{
+		"abr": "industrialdumpster(slag)",
+		"price": 3367,
+		"category": "Mobília",
+		"defname": "JDS_Industrial_Dumpster_Slag"
+	},
+	{
+		"abr": "industrialshelf(empty)",
+		"price": 1717,
+		"category": "Mobília",
+		"defname": "JDSIndustrial_shelf_empty"
+	},
+	{
+		"abr": "industrialshelf(full)",
+		"price": 5783,
+		"category": "Mobília",
+		"defname": "JDSIndustrial_shelf"
+	},
+	{
+		"abr": "largecanpallet",
+		"price": 120,
+		"category": "Mobília",
+		"defname": "JDS_Large_Can_Pallet"
+	},
+	{
+		"abr": "largelocker",
+		"price": 304,
+		"category": "Mobília",
+		"defname": "JDSLarge_locker"
+	},
+	{
+		"abr": "largepallet",
+		"price": 333,
+		"category": "Mobília",
+		"defname": "JDS_Large_Pallet"
+	},
+	{
+		"abr": "largepalleta",
+		"price": 867,
+		"category": "Mobília",
+		"defname": "JDS_Large_A_Pallet"
+	},
+	{
+		"abr": "largepalletb",
+		"price": 867,
+		"category": "Mobília",
+		"defname": "JDS_Large_B_Pallet"
+	},
+	{
+		"abr": "largepalletc",
+		"price": 867,
+		"category": "Mobília",
+		"defname": "JDS_Large_C_Pallet"
+	},
+	{
+		"abr": "largepalletd",
+		"price": 867,
+		"category": "Mobília",
+		"defname": "JDS_Large_D_Pallet"
+	},
+	{
+		"abr": "largepallete",
+		"price": 867,
+		"category": "Mobília",
+		"defname": "JDS_Large_E_Pallet"
+	},
+	{
+		"abr": "largepostbox",
+		"price": 170,
+		"category": "Mobília",
+		"defname": "JDS_Large_Post_Box"
+	},
+	{
+		"abr": "medstorage",
+		"price": 224,
+		"category": "Mobília",
+		"defname": "JDS_Med_Storage"
+	},
+	{
+		"abr": "metalcrate",
+		"price": 264,
+		"category": "Mobília",
+		"defname": "JDS_Metal_Crate"
+	},
+	{
+		"abr": "metalcratebiggerpile",
+		"price": 1525,
+		"category": "Mobília",
+		"defname": "JDS_Metal_Crate_Bigger_Pile"
+	},
+	{
+		"abr": "metalcratepile",
+		"price": 800,
+		"category": "Mobília",
+		"defname": "JDS_Metal_Crate_Pile"
+	},
+	{
+		"abr": "metalcratesmallpile",
+		"price": 425,
+		"category": "Mobília",
+		"defname": "JDS_Metal_Crate_Small_Pile"
+	},
+	{
+		"abr": "metalshelfa(empty)",
+		"price": 650,
+		"category": "Mobília",
+		"defname": "JDSMetal_Shelf_A"
+	},
+	{
+		"abr": "metalshelfa(full)",
+		"price": 900,
+		"category": "Mobília",
+		"defname": "JDSMetal_Shelf_A_Full"
+	},
+	{
+		"abr": "metalshelfb(empty)",
+		"price": 675,
+		"category": "Mobília",
+		"defname": "JDSMetal_Shelf_B"
+	},
+	{
+		"abr": "metalshelfb(full)",
+		"price": 900,
+		"category": "Mobília",
+		"defname": "JDSMetal_Shelf_B_Full"
+	},
+	{
+		"abr": "militarygradecratelarge",
+		"price": 2225,
+		"category": "Mobília",
+		"defname": "JDSMilitary_Grade_crate_Large"
+	},
+	{
+		"abr": "militarygradecratelong",
+		"price": 917,
+		"category": "Mobília",
+		"defname": "JDSMilitary_Grade_Crate_Long"
+	},
+	{
+		"abr": "militarygradecratesmall",
+		"price": 550,
+		"category": "Mobília",
+		"defname": "JDSMilitaryGradeCrateSmall"
+	},
+	{
+		"abr": "militarygradecratesmallpile",
+		"price": 3008,
+		"category": "Mobília",
+		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
+	},
+	{
+		"abr": "minibar(1x1)",
+		"price": 121,
+		"category": "Mobília",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "minibardeparede(1x1)",
+		"price": 121,
+		"category": "Mobília",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "pallet",
+		"price": 20,
+		"category": "Mobília",
+		"defname": "JDSPallet"
+	},
+	{
+		"abr": "palletbox",
+		"price": 307,
+		"category": "Mobília",
+		"defname": "JDSPallet_Box"
+	},
+	{
+		"abr": "palletcan",
+		"price": 64,
+		"category": "Mobília",
+		"defname": "JDSPallet_Can"
+	},
+	{
+		"abr": "palletcontainer",
+		"price": 342,
+		"category": "Mobília",
+		"defname": "JDSPallet_Container"
+	},
+	{
+		"abr": "palletcrate",
+		"price": 70,
+		"category": "Mobília",
+		"defname": "JDSPallet_Crate"
+	},
+	{
+		"abr": "refrigeradorquadrado(2x2)",
+		"price": 307,
+		"category": "Mobília",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "resourcescrate1",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_1ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate10",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_10ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate2",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_2ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate3",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_3ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate4",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_4ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate5",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_5ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate6",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_6ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate7",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_7ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate8",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_8ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate9",
+		"price": 134,
+		"category": "Mobília",
+		"defname": "JDS_9ResourcesCrate"
+	},
+	{
+		"abr": "safe",
+		"price": 400,
+		"category": "Mobília",
+		"defname": "JDSSafe"
+	},
+	{
+		"abr": "scarletedge",
+		"price": 5833,
+		"category": "Armas de corpo a corpo",
+		"defname": "AM_Weebstick"
+	},
+	{
+		"abr": "shelfa(empty)",
+		"price": 458,
+		"category": "Mobília",
+		"defname": "JDSShelf_A_Empty"
+	},
+	{
+		"abr": "shelfa(full)",
+		"price": 458,
+		"category": "Mobília",
+		"defname": "JDSShelf_A_Full"
+	},
+	{
+		"abr": "shippingcontainerblue",
+		"price": 9033,
+		"category": "Mobília",
+		"defname": "JDSShippingContainerBlue"
+	},
+	{
+		"abr": "shippingcontainergreen",
+		"price": 9783,
+		"category": "Mobília",
+		"defname": "JDSShippingContainerGreen"
+	},
+	{
+		"abr": "shippingcontainerred",
+		"price": 9783,
+		"category": "Mobília",
+		"defname": "JDSShippingContainerRed"
+	},
+	{
+		"abr": "silo",
+		"price": 3275,
+		"category": "Mobília",
+		"defname": "JDSSilo"
+	},
+	{
+		"abr": "anti-armorrocketlauncher",
+		"price": 1667,
+		"category": "Armas de longo alcance",
+		"defname": "Gun_AntiArmor_Rocket"
+	},
+	{
+		"abr": "industrialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial"
+	},
+	{
+		"abr": "industrialexplosiveammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_fire"
+	},
+	{
+		"abr": "industrialspecialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_emp"
+	},
+	{
+		"abr": "primitiveexplosiveammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_fire"
+	},
+	{
+		"abr": "primitivespecialammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_emp"
+	},
+	{
+		"abr": "smallerlocker",
+		"price": 170,
+		"category": "Mobília",
+		"defname": "JDSmaller_locker"
+	},
+	{
+		"abr": "spacerammo",
+		"price": 4,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer"
+	},
+	{
+		"abr": "spacerexplosiveammo",
+		"price": 4,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer_fire"
+	},
+	{
+		"abr": "spacerspecialammo",
+		"price": 12,
+		"category": "Ammo",
+		"defname": "yy_ammo_spacer_emp"
+	},
+	{
+		"abr": "toolbox",
+		"price": 4092,
+		"category": "Mobília",
+		"defname": "JDSTool_Box"
+	},
+	{
+		"abr": "vendingmachinea",
+		"price": 270,
+		"category": "Mobília",
+		"defname": "JDSVending_Machine"
+	},
+	{
+		"abr": "vendingmachineb",
+		"price": 170,
+		"category": "Mobília",
+		"defname": "JDSVending_Machine_two"
+	},
+	{
+		"abr": "wheelbarrow",
+		"price": 54,
+		"category": "Mobília",
+		"defname": "JDSwheelbarrow"
+	},
 	],
-	"total": 2603
+	"total": 2700
 }
